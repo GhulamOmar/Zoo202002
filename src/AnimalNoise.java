@@ -12,6 +12,7 @@ public class AnimalNoise {
 		Donkey joe = new Donkey("Joe", "Brown", 4);
 		Donkey jenny = new Donkey("Jenny", "Grey", 4);
 		Donkey jack = new Donkey("Jack", "Grey", 4);
+		Dog bella = new Dog("Bella", "Red", 5);
 
 		System.out.println(joe.speak());
 		System.out.println(jenny.speak());
